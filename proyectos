@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <link rel="website icon" type="png" href="https://cdn.icon-icons.com/icons2/2942/PNG/512/work_icon_183913.png">
+        <title>Proyectos</title>
+    </head>
+    <body>
+        <h1>Ingles</h1>
+        <iframe src="proyecto-ingles-frame.html" allowfullscreen="" width="665" height="500"></iframe><br>
+        <a href="g:\School\Proyecto-aula\proyecto-ingles.html"><button>Ir al Proyecto</button></a>
+    </body>
+    <nav>
+        <a href="inicio.html"><button>Regresar</button></a>
+    </nav>
+</html>
