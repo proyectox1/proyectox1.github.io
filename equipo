@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="website icon" type="png" href="https://cdn-icons-png.flaticon.com/128/5069/5069162.png">
+        <title>Equipo</title>
+    </head>
+    
+    <body background="https://fondosmil.com/fondo/490.jpg">
+        <h1 align="left"><font color="white" style="font-family: Arial, Helvetica, sans-serif;">
+            Integrantes
+        </font>
+        </h1>
+
+        <table>
+
+    
+            <tr>
+                <td>
+                    <p align="left">
+                        <font color="#6BCACB" style="font-family:Calibri;">
+                            Martínez Pérez Joshua Dereck
+                        </font>
+                        <details>
+                            <summary>
+                                Info
+                            </summary>
+                            <p>
+                                <b>Correo:</b>
+                                <a href="mailto:martinezperezjoshuadereck@gmal.com">
+                                    <font color="aqua" style="font-family:Calibri;">martinezperezjoshuadereck@gmail.com<br></font></a>
+                                    <b>Telefono:</b><a href="tel:5521015922"><font color="aqua" style="font-family:Calibri;">5521015922</font></a>
+                            </p>
+                        </details>
+                    </p>
+                </td>
+                <td>
+                    <img src="https://images.ecestaticos.com/DiJ6Fx5gUleSR6P1IBGPELVncIQ=/0x0:2121x1414/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4d0%2F68f%2Fb04%2F4d068fb04ec4ef3950da1cb9ed696747.jpg" width="250" height="200">
+                </td>
+                <td>
+                    <p align="left">
+                        <font color="#6BCACB" style="font-family:Calibri;">
+                            Nuñez Martínez Reyna Valeria
+                     </font>
+                    
+                     <details>
+                         <summary>
+                              Info
+                         </summary>
+                         <p>
+                                 <b>Correo:</b>
+                                 <a href="mailto:carnitasada07@gmail.com">
+                                     <font color="aqua" style="font-family:Calibri;">carnitasada07@gmail.com<br></font></a>
+                                     <b>Telefono:</b><a href="tel:5513022273"><font color="aqua" style="font-family:Calibri;">5513022273</font></a>
+                         </p>
+                        </details>
+                        <td>
+                            <img src="https://i0.wp.com/notus.com.mx/wp-content/uploads/2022/02/Koala.jpg?fit=1000%2C563&ssl=1" width="300" height="200">
+                        </td>
+                    </p>
+                </td>
+                <td>
+                    <p align="left">
+                        <font color="#6BCACB" style="font-family:Calibri;">
+                            Villaruel Cegueda Lizeth
+                     </font>
+                 
+                     <details>
+                         <summary>
+                              Info
+                         </summary>
+                         <p>
+                                <b>Correo:</b>
+                                <a href="mailto:lizvillarruelc@gmail.com">
+                                <font color="aqua" style="font-family:Calibri;">lizvillarruelc@gmail.com<br></font></a>
+                                <b>Telefono:</b><a href="tel:5518423425"><font color="aqua" style="font-family:Calibri;">5518423425</font></a>
+                         </p>
+                     </details>
+                    </p>
+                    <td>
+                        <img src="https://streamradioytv.buap.mx/images/retrato-corto-de-una-pequena-nutria-asiatica-u-oriental-aonyx-cinerea-gary-perkin-1024x683-1685469342444.jpg" width="270" height="200">
+                    </td>
+                </td>
+            </tr>
+
+
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <p align="left">
+                        <font color="#6BCACB" style="font-family:Calibri;">
+                            Nepomuceno Reséndiz Roberto
+                        </font>
+                        <details>
+                            <summary>
+                                Info
+                            </summary>
+                            <p>
+                                <b>Correo:</b>
+                                <a href="mailto:nepomuceno.rnr@gmail.com">
+                                    <font color="aqua" style="font-family:Calibri;">nepomuceno.rnr@gmail.com<br></font></a>
+                                    <b>Telefono:</b><a href="tel:5521015922"><font color="aqua" style="font-family:Calibri;">5571676692</font></a>
+                            </p>
+                        </details>
+                    </p>
+                </td>
+
+
+                <td>
+                    <img src="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2017/05/22/_easter3490261280_83981601.jpg" width="270" height="200">
+                </td>
+                <td>
+                    <p align="left">
+                        <font color="#6BCACB" style="font-family:Calibri;">
+                            Ramos Bautista Ketzy Abigail
+                        </font>
+                        <details>
+                            <summary>
+                                Info
+                            </summary>
+                            <p>
+                                <b>Correo:</b>
+                                <a href="mailto:ketzyabigail@gmal.com">
+                                    <font color="aqua" style="font-family:Calibri;">ketzyabigail@gmail.com<br></font></a>
+                                    <b>Telefono:</b><a href="tel:5521015922"><font color="aqua" style="font-family:Calibri;">5521915244</font></a>
+                            </p>
+                        </details>
+                    </p>
+                </td>
+                <td>
+                    <img src="https://tvazteca.brightspotcdn.com/dims4/default/770e640/2147483647/strip/true/crop/1980x1080+0+0/resize/928x506!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F71%2Fb7%2F75fc3ee54c42a47d1c8745aaf155%2Fperrito-en-mazatlan-se-hace-viral-por-ver-todos-los-dias-en-la-playa-el-atardecer.jpg" width="300" height="200">
+                </td>
+            </tr>
+
+
+        </table>
+        <nav>
+            <p>
+                <a href="inicio.html">
+                   <font style="font-family: Arial;"><button>Regresar</button></font>
+                </a>
+            </p>
+        </nav>
+    </body>
+</html>
